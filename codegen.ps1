@@ -1,0 +1,1 @@
+mvn -Pcodegen exec:java
